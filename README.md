@@ -1,4 +1,3 @@
-<!DOCTYPE html>
 <html>
   <head>
     <title><b>VIT BHOPAL OD AND PROXY-ATTENDENCE SERCIVES<b></title>
